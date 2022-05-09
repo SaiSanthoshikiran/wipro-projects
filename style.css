@@ -1,0 +1,41 @@
+.maindiv{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    
+    width: 100%;
+    background: linear-gradient(to right, rgba(250, 54, 103, 0.7), rgba(250, 54, 103, 0.7)), url("download.jpg")  fixed;
+}
+.offset-md-3 {
+    margin-left: 25%;
+    border:inset;
+    border-color: rgb(211, 5, 108);
+    padding: 40px;
+    background-color: rgb(222, 181, 243);
+    border-radius: 20px;
+    border-width: 5px;
+}
+.heading{
+    color:white;
+    letter-spacing: 5px;
+    font-family:unset;
+    font-size: 40px;
+    margin-bottom: 40px;
+   
+    border-radius: 20px;
+    
+    background-color:rgb(243, 13, 101);
+
+}
+.username{
+    color:rgb(243, 13, 101);
+
+
+    font-size: 20px;
+}
+#clear{
+   
+    background-color:rgb(243, 13, 101);
+
+    width: 150px;
+    color: white;
+    font-size: 18px;
+}
