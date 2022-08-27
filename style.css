@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgb(157, 155, 155);
+}
+.header{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+/* background-color: aqua; */
+
+}
+.navbar{
+    width: 70%;
+}
+.top{
+    background-color: rgb(255, 12, 255);
+}
+.go{
+    color: white;
+}
+.nav-item{
+    font-weight:400;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.related{
+    background-color: rgb(255, 12, 255);
+    margin-left: 8px;
+
+}
+.r2{
+    display: flex;
+}
+.r3,.art{
+    background-color: white;
+
+}
